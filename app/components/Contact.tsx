@@ -64,7 +64,7 @@ export default function Contact() {
               <Phone className="text-blue-400" />
               <div>
                 <div className="text-sm text-slate-400">Phone</div>
-                <div className="font-medium">+92 XXX XXXXXXX</div>
+                <div className="font-medium">+44 07784550198</div>
               </div>
             </div>
 
@@ -72,7 +72,7 @@ export default function Contact() {
               <MapPin className="text-blue-400" />
               <div>
                 <div className="text-sm text-slate-400">Office</div>
-                <div className="font-medium">Global Operations Center</div>
+                <div className="font-medium">73 Rutland Road, Ilford, England, IG1 1ER</div>
               </div>
             </div>
 

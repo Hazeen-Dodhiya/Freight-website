@@ -6,7 +6,7 @@ import { useRef } from "react";
 import { CheckCircle2 } from "lucide-react";
 
 const milestones = [
-  { year: "2008", title: "Founded in Karachi", desc: "Aurora started as a regional freight broker serving South Asia." },
+  { year: "2008", title: "Founded in UK", desc: "Aurora started as a regional freight broker serving Europe." },
   { year: "2013", title: "First International Hub", desc: "Expanded to Dubai with a dedicated ocean freight corridor." },
   { year: "2018", title: "Digital Transformation", desc: "Launched our proprietary real-time tracking platform across all modes." },
   { year: "2024", title: "Global Reach", desc: "Now operating in 150+ countries with 1,200 logistics partners worldwide." },

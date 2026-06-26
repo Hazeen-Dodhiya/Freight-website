@@ -12,7 +12,7 @@ export default function Footer() {
 
           <div>
             <h2 className="text-xl font-bold">
-              Aurora Freight SCM
+              Aurora Carla Maria
             </h2>
             <p className="text-slate-400 mt-4 text-sm">
               Global logistics platform built for speed, scale, and intelligence.
@@ -46,7 +46,7 @@ export default function Footer() {
           <div className="text-sm text-slate-400">
             <p className="font-semibold text-white mb-2">Contact</p>
             <p>support@aurorafreight.com</p>
-            <p>+92 XXX XXXXXXX</p>
+            <p>+44 07784550198</p>
           </div>
 
         </div>
@@ -57,7 +57,7 @@ export default function Footer() {
           whileInView={{ opacity: 1 }}
           className="mt-12 pt-6 border-t border-white/10 flex flex-col md:flex-row justify-between text-xs text-slate-500"
         >
-          <p>© {new Date().getFullYear()} Aurora Freight SCM</p>
+          <p>© {new Date().getFullYear()} Aurora Carla Maria</p>
           <p>Built for global logistics excellence</p>
         </motion.div>
 

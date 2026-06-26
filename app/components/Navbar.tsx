@@ -61,7 +61,7 @@ export default function Navbar() {
             <div className="w-8 h-8 rounded-lg bg-blue-500 flex items-center justify-center">
               <span className="text-white font-black text-sm">A</span>
             </div>
-            <span className="font-bold text-xl tracking-tight">Aurora Freight SCM</span>
+            <span className="font-bold text-xl tracking-tight">Aurora Carla Maria</span>
           </motion.div>
 
           {/* Desktop links */}
